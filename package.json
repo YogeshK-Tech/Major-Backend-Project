@@ -1,0 +1,14 @@
+{
+  "name": "project-major-backend",
+  "version": "1.0.0",
+  "description": "It is the first backend major project by Chai and Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend"
+  ],
+  "author": "Yogesh Kumar",
+  "license": "ISC"
+}
